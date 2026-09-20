@@ -13583,7 +13583,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_JLCPCB-Resistors:0402,510kΩ")
+		(lib_id "PCM_JLCPCB-Resistors:0402,510Ω")
 		(at 175.26 147.32 90)
 		(unit 1)
 		(body_style 1)
@@ -13604,7 +13604,7 @@
 				)
 			)
 		)
-		(property "Value" "510kΩ"
+		(property "Value" "510Ω"
 			(at 175.26 147.32 90)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -13625,7 +13625,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF5103TCE_C11616.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF5100TCE_C25123.pdf"
 			(at 175.26 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -13636,7 +13636,7 @@
 				)
 			)
 		)
-		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/°C ±1% 510kΩ 0402 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/°C ±1% 510Ω 0402 Chip Resistor - Surface Mount ROHS"
 			(at 175.26 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -13647,7 +13647,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C11616"
+		(property "LCSC" "C25123"
 			(at 175.26 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -13658,7 +13658,7 @@
 				)
 			)
 		)
-		(property "Stock" "210646"
+		(property "Stock" "2434473"
 			(at 175.26 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -13702,7 +13702,7 @@
 				)
 			)
 		)
-		(property "Attrition Qty" "10"
+		(property "Attrition Qty" "12"
 			(at 175.26 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -13713,7 +13713,7 @@
 				)
 			)
 		)
-		(property "Class" "Preferred Component"
+		(property "Class" "Basic Component"
 			(at 175.26 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -13746,7 +13746,7 @@
 				)
 			)
 		)
-		(property "Part" "0402WGF5103TCE"
+		(property "Part" "0402WGF5100TCE"
 			(at 175.26 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -13757,7 +13757,7 @@
 				)
 			)
 		)
-		(property "Resistance" "510kΩ"
+		(property "Resistance" "510Ω"
 			(at 175.26 147.32 0)
 			(hide yes)
 			(show_name no)
